@@ -1,0 +1,4 @@
+GameOfLife
+==========
+
+Test Typescript project
